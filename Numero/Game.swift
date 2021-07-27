@@ -32,7 +32,7 @@ class Game {
   let maxAttemptsAllowed = 10
   let maxNumberToGenerate = 4000
   
-  var score:
+  var score: Int
   var attempt: Int
   var numbersToConvert: [Int]
   var answersToDisplay: [String]
